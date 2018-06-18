@@ -1,9 +1,8 @@
 class Dog
   def initialize(name)
-    @name = Name
+    @name = name
   end
   def name
     @name
   end
 end
-
